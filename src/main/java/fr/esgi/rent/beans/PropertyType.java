@@ -7,7 +7,7 @@ public enum PropertyType {
     FLAT("Appartement"),
     HOUSE("Maison");
 	
-    private PropertyType(String designation) {
+    PropertyType(String designation) {
 		this.designation = designation;
 	}
 
