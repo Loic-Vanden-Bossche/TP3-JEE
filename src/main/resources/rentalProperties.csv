@@ -1,0 +1,4 @@
+Id,Description,Ville,Adresse,Type de propriété,Loyer mensuel,Dépôt de garantie,Surface,Nombre de chambres,Numéro d'étage,Nombre d'étages,Année de construction,Classification énergétique,Ascenseur,Interphone,Balcon,Place de parking
+46890,Appartement spacieux avec vue sur l'ESGI,Paris,77 Rue des roses,Appartement,750.90,1200.90,37.48,2,1,3,1990,D,non,non,oui,non
+12850,Appartement bien situé près du métro et des commerces,Neuilly-sur-Seine,90 rue de la Victoire,Appartement,1040.90,1250.90,50.69,3,2,5,1989,B,oui,oui,oui,oui
+83872,Maison à louer dans banlieue calme et proche du RER,Champs-sur-Marne,12 rue de la Pyramide,Maison,1050.90,1400.90,62.50,4,,,2000,B,non,non,non,non
